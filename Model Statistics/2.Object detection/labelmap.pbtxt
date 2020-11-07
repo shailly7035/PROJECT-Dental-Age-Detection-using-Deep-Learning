@@ -1,0 +1,32 @@
+item {
+id: 1
+name: "central incisor"
+}
+item {
+id: 2
+name: "lateral incisor"
+}
+item {
+id: 3
+name: "canine"
+}
+item {
+id: 4
+name: "first premolar"
+}
+item {
+id: 5
+name: "second premolar"
+}
+item {
+id: 6
+name: "first molar"
+}
+item {
+id: 7
+name: "second molar"
+}
+item {
+id: 8
+name: "third molar"
+}
